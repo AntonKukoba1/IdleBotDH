@@ -37,6 +37,6 @@ Basically you just need to do the Adventure and Tavern quests yourself, everythi
 7. Sit and watch while Idlebot is completing the daily activities for you
 
 # Demo
-[Demo.gif]
+A short [video](https://github.com/AntonKukoba1/IdleBot/blob/master/Demo.m4v) of how it looks when the bot is running.
 
 
