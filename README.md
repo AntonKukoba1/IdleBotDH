@@ -1,5 +1,5 @@
 # IdleBot
-The automation bot for Idle Heroes game by DH.
+The automation bot for Idle Heroes game by DHGames.
 
 The project was created to learn about UI automation in python using lackey. But it appeared to be stable enough to grow into full scale bot.
 This bot automates daily events completion which are super boring in this game.
