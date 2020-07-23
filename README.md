@@ -22,7 +22,7 @@ It is expected that your player level is high enough and all the game features a
 * Celestial Island: collects the resources, enters the expedion, gathers all the chests, kills the dragon and raids all the islands
 * Market: buys arena tickes, all 3-star heroes which are bought for gold, 4-star hero for 1500k gold, 5 basic summon scrolls
 * Wishing Fountain: does 2 spins of 1 coin
-* Seal land: does the smash for the latest faction
+* Seal land: does the smash for the last used faction
 * Blacksmith: forges 3 swords
 * Collects daily quest rewards
 
