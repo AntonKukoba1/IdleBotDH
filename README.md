@@ -10,6 +10,8 @@ The bot is designed to run on Windows PC while the game is running on Bluestacks
 
 Bluestacks should be running in resolution 1920x1080, 240 DPI maximized window.
 
+It is expected that your player level is high enough and all the game features are already unlocked. Bot doesn't have any fancy logic to deal with low level limitations.
+
 # Which daily activities it does
 * Gathers daily gems
 * Gathers the checkin bonus
@@ -38,5 +40,16 @@ Basically you just need to do the Adventure and Tavern quests yourself, everythi
 
 # Demo
 A short [video](https://github.com/AntonKukoba1/IdleBot/blob/master/Demo.m4v) of how it looks when the bot is running.
+
+# Extending and updating the bot
+
+The bot logic is pretty straightforward: wait for some image to appear - click some screen element. So the only thing needed is some screen shots to feed them to lackey. So in \IdleBot\idleheroes you'll find all those elements, which are used by the image recognition engine. 
+
+DHGAMES changes their interface once in 3-4 months, thus you'll need to update those images in order for bot to run.
+
+# Bugs and things not implemented yet
+* The lags in connection affect the stability of the bot dramatically.
+* If the game disconnects while the bot is running, there's no way to recover after the game is reconnected. You still may comment out the completed steps in main() and resume.
+
 
 
